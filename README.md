@@ -1,10 +1,13 @@
 
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220915084026/Top-7-UIUX-Trends-That-Every-Designer-Must-Know.gif)]
+
 <h1 align="center">Hi 👋, I'm Rawan Ahmed AbdElghfar Ali</h1>
 <h3 align="center">A passionate Front End Developer from Egypt</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rewan-ahmed-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rewan-ahmed-ali" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rewan-ahmed-ali" alt="rewan-ahmed-ali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

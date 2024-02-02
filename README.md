@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Ui/Ux design**
 
-- 👯 I’m looking to collaborate on **Ui/Ux design**
+- 👯 I’m looking to collaborate on **FrontEnd developer**
 
 - 🤝 I’m looking for help with **Ui/Ux design , Front End**
 

@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **FrontEnd developer**
 
-- 🤝 I’m looking for help with **Ui/Ux design , Front End**
+- 🤝 I’m looking for help with **Front End developer**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rewan-ahmed-ali/**
 

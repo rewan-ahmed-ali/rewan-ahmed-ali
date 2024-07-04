@@ -2,7 +2,7 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220915084026/Top-7-UIUX-Trends-That-Every-Designer-Must-Know.gif)]
 
 <h1 align="center">Hi 👋, I'm Rawan Ahmed AbdElghfar Ali</h1>
-<h3 align="center">A passionate Front End Developer from Egypt</h3>
+<h3 align="center">A passionate Ui/Ux Designer from Egypt</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rewan-ahmed-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rewan-ahmed-ali" /> </p>
